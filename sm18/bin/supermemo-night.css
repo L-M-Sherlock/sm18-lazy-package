@@ -1,0 +1,151 @@
+BODY {
+	BACKGROUND-COLOR: #191919;
+	COLOR           : #CCCCCC;
+	FONT-FAMILY     : TimesTenLTStd-Roman, ·½ÕýÓÆËÎ;
+	FONT-SIZE       : 16pt;
+	LINE-HEIGHT     : 1.7em;
+	TEXT-INDENT     : 2em;
+	PADDING         : 1em 5% 0 5%;
+}
+
+h1 {
+	FONT-SIZE: 24pt;
+}
+
+h2 {
+	FONT-SIZE: 22pt;
+}
+
+h3 {
+	FONT-SIZE: 20pt;
+}
+
+h4 {
+	FONT-SIZE: 18pt;
+}
+
+h5 {
+	FONT-SIZE: 17pt;
+}
+
+h6 {
+	FONT-SIZE: 16pt;
+}
+
+code {
+	TEXT-INDENT: 0;
+	FONT-FAMILY: consolas;
+}
+
+.Cloze {
+	COLOR           : #ff0000;
+	FONT-WEIGHT     : bold;
+	LETTER-SPACING  : 5px;
+}
+
+.clozed {
+	COLOR: #FFD499;
+	FONT-WEIGHT     : bold;
+}
+
+.Extract {
+	COLOR: #A7D6F1;
+}
+
+.Headers {
+	BACKGROUND-COLOR: #968CC6;
+	COLOR           : #191919;
+	FONT-STYLE      : normal;
+	FONT-WEIGHT     : bold;
+	FONT-SIZE       : 18pt;
+}
+
+.RefText {
+	COLOR           : #F7E394;
+	FONT-STYLE      : normal;
+	FONT-WEIGHT     : bold;
+	FONT-SIZE       : 18pt;
+}
+
+.Reference {
+	COLOR           : #C29CC0;
+	LINE-HEIGHT     : 1.3em;
+	FONT-SIZE       : 10pt;
+}
+
+.Highlight {
+	BACKGROUND-COLOR: #FFFF86;
+	COLOR           : #191919;
+	FONT-STYLE      : normal;
+	FONT-WEIGHT     : bold;
+}
+
+.SearchHighlight {
+	BACKGROUND-COLOR: #EE8888;
+	COLOR           : #191919;
+	FONT-STYLE      : normal;
+	FONT-WEIGHT     : bold;
+}
+
+.Ignore {
+	BACKGROUND-COLOR: #DAB6B6;
+	COLOR           : #191919;
+	FONT-STYLE      : italic;
+	FONT-WEIGHT     : normal;
+}
+
+.tablelabel {
+	BACKGROUND-COLOR: #CCCCCC;
+	COLOR           : #0000FF;
+	FONT-STYLE      : italic;
+	FONT-WEIGHT     : normal;
+}
+
+.hint {
+	PADDING         : .25em;
+	BACKGROUND-COLOR: #4d4d4d;
+}
+
+.note {
+	FONT-SIZE: smaller;
+}
+
+.side-note {
+	PADDING: 0 10% 0 10%;
+	TEXT-INDENT: 2em;
+}
+
+a.external {
+	PADDING-RIGHT: 13px;
+	BACKGROUND   : url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfArtQ2iRXFWT2QedAfttj2FsPIOE1eCOlEuoWWjgzYaB/IkeGOrxXhqB+uA9Bfcm0lAZuh+YIeAD+cAqSz4kCMUAAAAASUVORK5CYII=") center right no-repeat;
+}
+
+img.origin_image {
+	width:100%;
+	height:auto;
+}
+.Fuck_Lexicon {
+	position:absolute;
+	top:-9999px;
+	left:-9999px;
+}
+.jigsawlatex {
+}
+.term {
+	background-color:#faeecf;
+	padding-right:0.3em;
+}
+.hashtag {
+	border-radius:15px;
+	background-color:#C0D9D9;
+	padding-right:0.3em;
+	FONT-SIZE:12pt;
+	FONT-STYLE:italic;
+}
+.english_tag {
+	border-radius:15px;
+	background-color:#C0D9D9;
+	padding-right:0.3em;
+	FONT-SIZE:12pt;
+	FONT-STYLE:italic;
+}

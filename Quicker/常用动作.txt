@@ -1,0 +1,11 @@
+https://getquicker.net/ 是一款 Windows 上的便捷工具，可以自动化各种组合操作。许多在 SuperMemo 中繁琐的操作，都可以用 Quicker 动作一下搞定。
+
+SuperMemo 用户常用动作：
+
+从网页复制来的文本格式太乱？统一格式动作来帮忙 https://getquicker.net/Sharedaction?code=859bda04-fe78-4385-1b37-08d88a0dba1c
+手抖挖错空/摘错录，原文痕迹去不得？试试这个动作 https://getquicker.net/Sharedaction?code=cb402ef3-5c4f-4949-e087-08d91a4d7482
+
+两位大佬的推荐码：
+
+143249-5624
+236175-5835

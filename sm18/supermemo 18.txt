@@ -1,0 +1,46 @@
+What's new in SuperMemo 18?
+(Redirected from What's new in SuperMemo?)
+Contents [hide]
+1 Learning
+2 Interface
+3 Performance
+4 Bugs fixed
+5 Warnings
+6 Other
+Learning
+Algorithm SM-18 with a new approach to determining item difficulty
+new universal algorithm metric
+collecting and displaying stabilization curves that determine the efficency of review
+collecting and displaying retrievability-based forgetting curves to determine the efficiency of the algorithm
+simplified editing of repetition histories (e.g. Aug 15, 1995 or Int=6 are allowed instead of full repetition data)
+recalibrating SuperMemo Algorithm to rely on E(SInc[]) rather than SInc[]
+maximum interval increased to 120 years (previously 10,000 days, i.e. 37 years)
+repetition history can be used to override learning parameters
+Undo Repetition (items are made pending when the last record is deleted)
+grade undo is possible by editing the last repetition history record (or using Undo Repetition)
+Interface
+40 predefined themes (skins)
+each collection can use its own theme (skin)
+all toolbars available as tabs at the bottom of the element window
+emojis used for grades instead of grade names (names known from previous SuperMemos can be restored via Options)
+Emoji-based grade panel in SuperMemo 18
+
+Figure: In SuperMemo 18, grades are illustrated with vivid emojis by default. If you prefer the old text-based grades (i.e. Great, Pass, Bad, etc.), uncheck Grade icons in Toolkit : Options : SuperMemo.
+Performance
+SuperMemo 18 has been recompiled with Delphi 10.2 Tokyo
+minimizing add on units to capitalize on native Delphi support
+resetting statistics at Memorized=0 does not reset the collection, only deletes files
+Bugs fixed
+https:// image import could fail if https files had not http access
+occasionally, RTF files would fail to upgrade to HTML (old format retained)
+Alarm : Start could instantly raise the alarm for time>0
+Warnings
+No more floating toolbars
+No more toolbar dock
+No more translation import and export via text
+Window:Select:Next window removed
+No more stray repetition export from repetition history
+Additional repetition history warnings Wrong repetition, grade and lapses match can only be fixed manually (e.g. Fix and Edit)
+Other
+simplified code with a great deal of refactoring
+440 improvements and bug fixes

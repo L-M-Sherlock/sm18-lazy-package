@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <style type="text/css">
+			INPUT { display: none !important; }
+        </style>
+    </head>
+    <body>
+		<input type="text" name="extractName" id="extractName" class=".hidden" />
+        <input type="hidden" value="zzzYT-IDzzz" id="videoid" class=".hidden" />
+        <input type="hidden" id="imposeboundries" class=".hidden" />
+		<input type="text" value="0:00:00" id="resumevideoat" onfocus="this.select();" ondblclick="resetAt('resume');" onchange="this.value = convertDuration2HHMMSS(convertHHMMSS2Duration(this.value));" />
+		<input type="text" value="0:00:00" id="startvideoat" onfocus="this.select();" onchange="this.value = convertDuration2HHMMSS(convertHHMMSS2Duration(this.value)); document.getElementById('imposeboundries').value = 0; updateBorder(this);" ondblclick="resetAt('start');" />
+		<input type="text" value="0:00:00" id="stopvideoat" onfocus="this.select();" onchange="this.value = convertDuration2HHMMSS(convertHHMMSS2Duration(this.value)); document.getElementById('imposeboundries').value = 0; updateBorder(this);" ondblclick="resetAt('stop');" />
+		<script type="text/javascript">
+			var buildUrlString = function() {
+					var urlString = "",
+						oTs = new Date(),
+						sTs = [
+							oTs.getFullYear(),
+							oTs.getMonth(),
+							oTs.getDate(),
+							oTs.getHours(),
+							oTs.getMinutes(),
+							oTs.getSeconds(),
+							oTs.getMilliseconds()
+						].join("");
+					
+					urlString += "videoid=" + document.getElementById("videoid").value + "&";
+					urlString += "resume=" + document.getElementById("resumevideoat").value + "&";
+					urlString += "start=" + document.getElementById("startvideoat").value + "&";
+					urlString += "stop=" + document.getElementById("stopvideoat").value + "&";
+					urlString += "ts=" + sTs;
+					
+					return urlString;
+				},
+				sBaseUrl = "http://supermemory.info/iv/yt.htm?",
+				sUrlString = buildUrlString();
+				
+			document.location.href = sBaseUrl + sUrlString;
+		</script>
+    </body>
+</html>
