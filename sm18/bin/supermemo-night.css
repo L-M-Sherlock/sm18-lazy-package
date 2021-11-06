@@ -9,27 +9,34 @@ BODY {
 }
 
 h1 {
-	FONT-SIZE: 24pt;
+	FONT-SIZE:24pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
 }
-
 h2 {
-	FONT-SIZE: 22pt;
+	FONT-SIZE:22pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
 }
-
 h3 {
-	FONT-SIZE: 20pt;
+	FONT-SIZE:20pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
 }
-
 h4 {
-	FONT-SIZE: 18pt;
+	FONT-SIZE:18pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
 }
-
 h5 {
-	FONT-SIZE: 17pt;
+	FONT-SIZE:17pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
 }
-
 h6 {
-	FONT-SIZE: 16pt;
+	FONT-SIZE:16pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
 }
 
 code {
