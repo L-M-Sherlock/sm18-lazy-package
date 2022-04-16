@@ -1,39 +1,40 @@
 BODY {
-	BACKGROUND-COLOR:#F9F5E9;
-	COLOR:#191919;
-	FONT-FAMILY:TimesTenLTStd-Roman,方正悠宋;
-	FONT-SIZE:16pt;
-	LINE-HEIGHT:1.7em;
-	TEXT-INDENT:2em;
-	PADDING:1em 5% 0 5%;
+	BACKGROUND-COLOR: #F9F5E9;
+	COLOR           : #121212;
+	FONT-FAMILY     : TimesTenLTStd-Roman,方正悠宋;
+	FONT-SIZE       : 13pt;
+	font-weight		: 700;
+	LINE-HEIGHT     : 1.85em;
+	TEXT-INDENT     : 2em;
+	PADDING         : 1em 5% 0 5%;
 }
 h1 {
-	FONT-SIZE:24pt;
-	TEXT-INDENT:0;
-	border-bottom:1px solid #dbdbdb;
-}
-h2 {
-	FONT-SIZE:22pt;
-	TEXT-INDENT:0;
-	border-bottom:1px solid #dbdbdb;
-}
-h3 {
 	FONT-SIZE:20pt;
 	TEXT-INDENT:0;
 	border-bottom:1px solid #dbdbdb;
 }
-h4 {
+h2 {
 	FONT-SIZE:18pt;
 	TEXT-INDENT:0;
 	border-bottom:1px solid #dbdbdb;
 }
-h5 {
+h3 {
 	FONT-SIZE:17pt;
 	TEXT-INDENT:0;
 	border-bottom:1px solid #dbdbdb;
 }
-h6 {
+h4 {
 	FONT-SIZE:16pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
+}
+h5 {
+	FONT-SIZE:15pt;
+	TEXT-INDENT:0;
+	border-bottom:1px solid #dbdbdb;
+}
+h6 {
+	FONT-SIZE:14pt;
 	TEXT-INDENT:0;
 	border-bottom:1px solid #dbdbdb;
 }
