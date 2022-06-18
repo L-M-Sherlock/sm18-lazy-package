@@ -1,0 +1,4 @@
+[Length]
+Hours=16
+[Schedule]
+Activity1=0 00:00 -
