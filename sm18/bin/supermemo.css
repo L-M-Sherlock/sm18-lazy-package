@@ -27,6 +27,11 @@ width:80%;
 height:auto;
 }
 
+img.origin_image {
+	width:100%;
+	height:auto;
+}
+
 .instantpaste {
 }
 
@@ -199,3 +204,4 @@ ol {
 	padding-right:0.3em;
 	FONT-SIZE:14pt;
 background-color: #FAF9DE;
+}
