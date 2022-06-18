@@ -40,7 +40,7 @@ Insert=插入
 Delete=删除
 Do you want to learn new material?=你要学习待学习队列中的新材料吗？
 Final drill?=开始巩固训练？
-Nothing more to learn=你完成了今天的复习
+Nothing more to learn=已完成今天的复习
 Stop=停止
 Cancel grade=取消评分
 Error=错误
@@ -51,7 +51,7 @@ Language=语言
 Insert CD-ROM labelled=插入光盘?
 Great=掌握
 [Font]
-Interface Font Name=˼Դ���� CN
+Interface Font Name=˼Դ���� CN
 Interface Font Size=9
 Interface Font Color=-16777208
 Interface Font Style=
