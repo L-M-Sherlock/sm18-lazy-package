@@ -106,7 +106,7 @@ h6 {
 	background:linear-gradient(135deg,#57ca85 0%,#184e68 100%);
 	border-radius:5px;
 	color:#C1C1C1;
-	FONT-SIZE:12pt;
+	FONT-SIZE:10pt;
 }
 .Highlight {
 	BACKGROUND-COLOR:#FFFF86;
@@ -126,10 +126,8 @@ h6 {
 	FONT-WEIGHT:bold;
 }
 .Ignore {
-	BACKGROUND-COLOR:#FFFF86;
-	COLOR:#191919;
-	FONT-STYLE:normal;
-	FONT-WEIGHT:bold;
+	BACKGROUND-COLOR: #E4EAFO;
+	COLOR:#6C7782;
 }
 table {
 	margin:4rem auto;
