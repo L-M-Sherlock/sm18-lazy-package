@@ -1,10 +1,11 @@
 BODY
 {
-BACKGROUND-COLOR: #FFFFFF;
-FONT-FAMILY: NYT Imperial + Noto Sans SC;
-FONT-SIZE: 14pt;
+background-color: #FFFFFF;
+FONT-FAMILY:  Times Ten LT Std + FZYouSongS R;
+FONT-SIZE: 13pt;
 overflow: scroll;
 height: 100%;
+padding: 1em 10% 0 10%;
 }	
 
 html {
@@ -22,13 +23,20 @@ HR {
 	color:#F0F0F0;
 }
 
+
 .instantpaste {
 }
+
 .Fuck_Lexicon {
 	position:absolute;
 	top:-9999px;
 	left:-9999px;
 	color:white;
+}
+
+.jigsawlatex1 {
+	width:1.5%;
+	height:auto;
 }
 
 h1 {
@@ -68,7 +76,6 @@ h6 {
 	COLOR:red;
 	FONT-STYLE:normal;
 	FONT-WEIGHT:bold;
-	FONT-SIZE:20pt;
 	margin:4px;
 }
 .clozed {
@@ -91,7 +98,7 @@ h6 {
 	background:linear-gradient(135deg,#57ca85 0%,#184e68 100%);
 	border-radius:5px;
 	color:#C1C1C1;
-	FONT-SIZE:12pt;
+	FONT-SIZE:10pt;
 }
 .Highlight {
 	BACKGROUND-COLOR:#FFFF86;
@@ -111,10 +118,8 @@ h6 {
 	FONT-WEIGHT:bold;
 }
 .Ignore {
-	BACKGROUND-COLOR:#FFFF86;
-	COLOR:#191919;
-	FONT-STYLE:normal;
-	FONT-WEIGHT:bold;
+	BACKGROUND-COLOR: #E4EAFO;
+	COLOR:#6C7782;
 }
 table {
 	margin:4rem auto;
@@ -189,4 +194,5 @@ ol {
 	background-color:#C0D9D9;
 	padding-right:0.3em;
 	FONT-SIZE:14pt;
+background-color: #FAF9DE;
 }
