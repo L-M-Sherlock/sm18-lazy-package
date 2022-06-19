@@ -1,2 +1,2 @@
 进入以下路径启动即可：
-sm18-lazy-package-1.3.0\sm18\sm18.exe
+sm18-lazy-package-x.x.x\sm18\sm18.exe
