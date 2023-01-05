@@ -1,20 +1,35 @@
 q: 增量阅读用于什么?
 a: 从成千上万的文章中阅读和学习 (www.super-memory.com/help/read.htm)
+
+q: 在SuperMemo中，你怎样才能看到某个菜单项的功能？
+a: 选择它，它的描述将显示在状态栏上。
+
+q: 在SuperMemo中，一个元素集合的名称是什么？
+a: SuperMemo collection
+ 
+q: 如何制作SuperMemo集合的副本？
+a: 选择 "文件"：复制集合（或按Ctrl+Shift+C）。
+ 
+q: 如果SuperMemo集的文件被损坏，如何恢复？
+a: 文件：修复（或按Ctrl+F12）。
+
+q: 如何在整个SuperMemo集合中搜索一个指定的文本？
+a: 按Ctrl+F（搜索的快捷键：查找 Elements）。
  
 q: 渐进阅读在学习过程的哪个阶段会加速?
 a: 理解
  
-q: 我如何添加一篇文章到SuperMemo增量阅读?
-a: 1. 把这篇文章复制到剪贴板上。 2. 用Ctrl+N粘贴。
+q: 如何将一篇文章添加到SuperMemo中进行增量阅读？
+a: 1. 复制文章到剪贴板。 2. 按 Ctrl+N 粘贴。
  
-q: 我怎样才能把问题和答案互换呢?
+q: 我怎样才能将问题与答案对调？
 a: 按 Ctrl+Shift+S
  
 q: 如何从维基百科导入文章?
 a: (1) 在Internet Explorer中打开文章, (2) 使用 Ctrl+Shift+W
 
 q: 如何将每日问题引入到SuperMemo的学习过程中?
-a: 选择 'Remember' 记住(M)
+a: 选择记住(M) （choose 'Remember'）
  
 q: How can you always bring up the Question of the Day dialog?
 a: 选择 帮助(H) : 每日一问
@@ -32,28 +47,28 @@ q: 你如何确保你记住一些事实?
 a: 把它整理到SuperMemo。
  
 q: 存储在SuperMemo中的单个知识的名称是什么?
-a: element (显示在元素窗口中) 
+a: Element (显示在元素窗口中) 
  
 q: 如何删除当前显示的元素(在SuperMemo中)?
 a: 使用 Del键 删除
  
 q: 如何向SuperMemo添加新元素?
-a: 选择 Add New (或按 Alt+A)
+a: 选择 Add New新增 (或按 Alt+A)
  
 q: 如何学习存储在SuperMemo中的元素?
-a: 选择 Learn （或按 Ctrl+L)
+a: 选择 Learn学习 （或按 Ctrl+L)
  
 q: 如何找到SuperMemo用户提出的所有问题的答案?
 a: 查看 SuperMemo Wiki: https://supermemopedia.com
  
 q: 何在SuperMemo中看到一个给定按钮的功能?
-a: 将鼠标指针停止在按钮上
+a: 将鼠标指针停止在按钮上。
  
 q: 如何将图片添加到SuperMemo元素?
 a: 1. 将图片复制到剪贴板, 2.用Ctrl+V或Shift+Ins在SuperMemo中粘贴图片
  
 q: 我如何添加一个声音组件到SuperMemo元素?
-a: 选择 Edit（编辑） : Add components（添加组件） : Sound（声音）
+a: 选择编辑 : 添加组件 : 声音（choose Edit : Add components : Sound）
  
 q: 我如何确保每次选择添加新元素时都使用了给定的元素外观?
-a: 使用 Template（模板） : 保存为默认 (在创建 new look 之后)
+a: 使用模板（Template） : 保存为默认 (在创建 new look 之后)
