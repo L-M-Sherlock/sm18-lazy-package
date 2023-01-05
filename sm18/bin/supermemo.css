@@ -1,206 +1,232 @@
-BODY
-{
-background-color: #FFF2E2;
-FONT-FAMILY:  Times Ten LT Std + FZYouSongS R;
-FONT-SIZE: 13pt;
-overflow: scroll;
-height: 100%;
-padding: 1em 10% 0 10%;
-}	
+BODY {
+	background-color: #FFF2E2;
+	FONT-FAMILY: Times Ten LT Std + FZYouSongS R;
+	FONT-SIZE: 13pt;
+	overflow: scroll;
+	height: 100%;
+	padding: 1em 10% 0 10%;
+}
 
 html {
-height: 100%;
-width: 100%;
-overflow: hidden;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
 }
-	
-a:link {color:#000099} 
-a:visited {color:#000066} 
-a:hover {color:#6600CC} 
-a:active {color:#3333FF} 
+
+a:link { color: #000099 }
+a:visited { color: #000066 }
+a:hover { color: #6600CC }
+a:active { color: #3333FF }
 
 HR {
-color:#DEE9E2;
+	color: #DEE9E2;
 }
 
-.img{
-width:80%;
-height:auto;
+.img {
+	width: 80%;
+	height: auto;
 }
 
 img.origin_image {
-	width:80%;
-	height:auto;
+	width: 80%;
+	height: auto;
 }
 
-.instantpaste {
-}
+.instantpaste {}
 
 .Fuck_Lexicon {
-	position:absolute;
-	top:-9999px;
-	left:-9999px;
-	color:white;
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+	color: white;
 }
 
 .jigsawlatex1 {
-	width:1.5%;
-	height:auto;
+	width: 1.5%;
+	height: auto;
 }
+
 h1 {
-	padding:5px 0;
-	font-weight:800;
-	border-bottom:1px solid #dbdbdb;
+	padding: 5px 0;
+	font-weight: 800;
+	border-bottom: 1px solid #dbdbdb;
 }
+
 h2 {
-	padding:5px 0;
-	font-weight:800;
-	border-bottom:1px solid #dbdbdb;
+	padding: 5px 0;
+	font-weight: 800;
+	border-bottom: 1px solid #dbdbdb;
 }
+
 h3 {
-	padding:5px 0;
-	font-weight:800;
-	border-bottom:1px solid #dbdbdb;
+	padding: 5px 0;
+	font-weight: 800;
+	border-bottom: 1px solid #dbdbdb;
 }
+
 h4 {
-	padding:5px 0;
-	font-weight:800;
-	border-bottom:1px solid #dbdbdb;
+	padding: 5px 0;
+	font-weight: 800;
+	border-bottom: 1px solid #dbdbdb;
 }
+
 h5 {
-	padding:5px 0;
-	font-weight:800;
-	border-bottom:1px solid #dbdbdb;
-	border-right:0px;
+	padding: 5px 0;
+	font-weight: 800;
+	border-bottom: 1px solid #dbdbdb;
+	border-right: 0px;
 }
+
 h6 {
-	padding:5px 0;
-	font-weight:800;
-	border-bottom:1px solid #dbdbdb;
-	border-right:0px;
+	padding: 5px 0;
+	font-weight: 800;
+	border-bottom: 1px solid #dbdbdb;
+	border-right: 0px;
 }
+
 .Cloze {
-	BACKGROUND-COLOR:#FFFF00;
-	COLOR:red;
-	FONT-STYLE:normal;
-	FONT-WEIGHT:bold;
-	margin:4px;
+	BACKGROUND-COLOR: #FFFF00;
+	COLOR: red;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	margin: 4px;
 }
+
 .clozed {
-	BACKGROUND-COLOR:#E9C3B9;
+	BACKGROUND-COLOR: #E9C3B9;
 }
+
 .Extract {
 	BACKGROUND-COLOR: #CDEDF6;
 }
+
 .headers {
 	BACKGROUND-COLOR: #C6C6FF;
 	COLOR: #000000;
 	FONT-WEIGHT: bold;
 }
+
 .RefText {
 	BACKGROUND-COLOR: #FFFFC4;
-	COLOR: #000000;	
+	COLOR: #000000;
 	FONT-WEIGHT: bold;
 }
+
 .Reference {
-	background:linear-gradient(135deg,#57ca85 0%,#184e68 100%);
-	border-radius:5px;
-	color:#C1C1C1;
-	FONT-SIZE:10pt;
+	background: linear-gradient(135deg, #57ca85 0%, #184e68 100%);
+	border-radius: 5px;
+	color: #C1C1C1;
+	FONT-SIZE: 10pt;
 }
+
 .Highlight {
-	BACKGROUND-COLOR:#FFFF86;
-	COLOR:#FF0000;
-	FONT-WEIGHT:bold;
+	BACKGROUND-COLOR: #FFFF86;
+	COLOR: #FF0000;
+	FONT-WEIGHT: bold;
 }
+
 .SearchHighlight {
-	BACKGROUND-COLOR:#EE8888;
-	COLOR:#191919;
-	FONT-STYLE:normal;
-	FONT-WEIGHT:bold;
+	BACKGROUND-COLOR: #EE8888;
+	COLOR: #191919;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
 }
+
 .SearchHighlight1 {
-	BACKGROUND-COLOR:aqua;
-	COLOR:black;
-	FONT-STYLE:normal;
-	FONT-WEIGHT:bold;
+	BACKGROUND-COLOR: aqua;
+	COLOR: black;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
 }
+
 .Ignore {
-	BACKGROUND-COLOR: #E4EAFO;
-	COLOR:#6C7782;
+	BACKGROUND-COLOR: #E4EAF0;
+	COLOR: #6C7782;
 }
+
 table {
-	margin:4rem auto;
+	margin: 4rem auto;
 }
+
 .TableLabel {
-	BACKGROUND-COLOR:#CCCCCC;
-	COLOR:blue;
+	BACKGROUND-COLOR: #CCCCCC;
+	COLOR: blue;
 }
+
 .hint {
-	BACKGROUND-COLOR:#E0E0E0;
+	BACKGROUND-COLOR: #E0E0E0;
 }
+
 .note {
-	FONT-SIZE:smaller;
+	FONT-SIZE: smaller;
 }
+
 .term {
-	background-color:#faeecf;
-	padding-right:0.3em;
+	background-color: #faeecf;
+	padding-right: 0.3em;
 }
+
 .hashtag {
-	border-radius:15px;
-	background-color:#C0D9D9;
-	padding-right:0.3em;
-	FONT-SIZE:12pt;
-	FONT-STYLE:italic;
+	border-radius: 15px;
+	background-color: #C0D9D9;
+	padding-right: 0.3em;
+	FONT-SIZE: 12pt;
+	FONT-STYLE: italic;
 }
+
 .english_tag {
-	border-radius:15px;
-	background-color:#C0D9D9;
-	padding-right:0.3em;
-	FONT-SIZE:11pt;
-	FONT-STYLE:italic;
+	border-radius: 15px;
+	background-color: #C0D9D9;
+	padding-right: 0.3em;
+	FONT-SIZE: 11pt;
+	FONT-STYLE: italic;
 }
+
 div.mytag {
-	BACKGROUND-COLOR:#DAB6B6;
-	COLOR:#000000;
-	FONT-STYLE:italic;
-	FONT-WEIGHT:normal;
-	FONT-SIZE:9.3333333333pt;
-	float:right;
-	padding:0 .3em 0 .3em;
-	margin-right:.3em;
-	border-bottom:3px solid #dbdbdb;
+	BACKGROUND-COLOR: #DAB6B6;
+	COLOR: #000000;
+	FONT-STYLE: italic;
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 9.3333333333pt;
+	float: right;
+	padding: 0 .3em 0 .3em;
+	margin-right: .3em;
+	border-bottom: 3px solid #dbdbdb;
 }
+
 ul {
-	border-left:2pt solid #e5e5e4;
-	position:relative;
-	padding-left:35pt;
-	padding-top:0pt;
-	margin-top:5pt;
-	margin-bottom:5pt;
-	margin-left:2.5pt;
+	border-left: 2pt solid #e5e5e4;
+	position: relative;
+	padding-left: 35pt;
+	padding-top: 0pt;
+	margin-top: 5pt;
+	margin-bottom: 5pt;
+	margin-left: 2.5pt;
 }
+
 ol {
-	list-style-type:decimal;
-	border-left:2pt solid #e5e5e4;
-	position:relative;
-	padding-left:35pt;
-	padding-top:0pt;
-	margin-top:5pt;
-	margin-bottom:5pt;
-	margin-left:2.5pt;
+	list-style-type: decimal;
+	border-left: 2pt solid #e5e5e4;
+	position: relative;
+	padding-left: 35pt;
+	padding-top: 0pt;
+	margin-top: 5pt;
+	margin-bottom: 5pt;
+	margin-left: 2.5pt;
 }
+
 .grey {
-	BACKGROUND-COLOR:#DAB6B6;
-	COLOR:#000000;
-	FONT-STYLE:italic;
-	FONT-WEIGHT:normal;
-	FONT-SIZE:12pt;
+	BACKGROUND-COLOR: #DAB6B6;
+	COLOR: #000000;
+	FONT-STYLE: italic;
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 12pt;
 }
+
 .schedule {
-	border-radius:15px;
-	background-color:#C0D9D9;
-	padding-right:0.3em;
-	FONT-SIZE:14pt;
-background-color: #FAF9DE;
+	border-radius: 15px;
+	background-color: #C0D9D9;
+	padding-right: 0.3em;
+	FONT-SIZE: 14pt;
+	background-color: #FAF9DE;
 }
