@@ -1,78 +1,59 @@
+q: 增量阅读用于什么?
+a: 从成千上万的文章中阅读和学习 (www.super-memory.com/help/read.htm)
+ 
+q: 渐进阅读在学习过程的哪个阶段会加速?
+a: 理解
+ 
+q: 我如何添加一篇文章到SuperMemo增量阅读?
+a: 1. 把这篇文章复制到剪贴板上。 2. 用Ctrl+N粘贴。
+ 
+q: 我怎样才能把问题和答案互换呢?
+a: 按 Ctrl+Shift+S
+ 
+q: 如何从维基百科导入文章?
+a: (1) 在Internet Explorer中打开文章, (2) 使用 Ctrl+Shift+W
+
+q: 如何将每日问题引入到SuperMemo的学习过程中?
+a: 选择 'Remember' 记住(M)
  
 q: How can you always bring up the Question of the Day dialog?
-a: choose Help : Question of the Day
+a: 选择 帮助(H) : 每日一问
  
-q: What do you need SuperMemo for?
-a: to learn fast and remember things for life
+q: 你需要SuperMemo做什么?
+a: 学得快，记得牢（to learn fast and remember things for life）
  
-q: What main study technique does SuperMemo use to make sure you never forget your knowledge?
-a: revision (via spaced repetition)
+q: SuperMemo使用了什么主要的学习技巧来确保你永远不会忘记你的知识?
+a: 复习（通过间隔重复）
  
-q: How does SuperMemo know when you will forget?
-a: by understanding memory and by studying how your memory works
+q: SuperMemo如何知道你什么时候会忘记呢?
+a: 通过理解记忆和研究你的记忆是如何运作的
  
-q: How can you make sure that you remember some fact?
-a: introduce it to SuperMemo
+q: 你如何确保你记住一些事实?
+a: 把它整理到SuperMemo。
  
-q: What is the name of a single piece of knowledge stored in SuperMemo?
-a: element (displayed in the element window)
+q: 存储在SuperMemo中的单个知识的名称是什么?
+a: element (显示在元素窗口中) 
  
-q: How can you delete the currently displayed element (in SuperMemo)?
-a: (press) Del
+q: 如何删除当前显示的元素(在SuperMemo中)?
+a: 使用 Del键 删除
  
-q: How can you add a new element to SuperMemo?
-a: choose Add New (or press Alt+A)
+q: 如何向SuperMemo添加新元素?
+a: 选择 Add New (或按 Alt+A)
  
-q: How can you learn the elements stored in SuperMemo?
-a: choose Learn (or press Ctrl+L)
+q: 如何学习存储在SuperMemo中的元素?
+a: 选择 Learn （或按 Ctrl+L)
  
-q: How can you find answers to all questions asked by users of SuperMemo?
-a: see SuperMemo Wiki: https://supermemopedia.com
+q: 如何找到SuperMemo用户提出的所有问题的答案?
+a: 查看 SuperMemo Wiki: https://supermemopedia.com
  
-q: How can you see the function of a given button in SuperMemo?
-a: stop the mouse pointer over the button
+q: 何在SuperMemo中看到一个给定按钮的功能?
+a: 将鼠标指针停止在按钮上
  
-q: How can you see the function of a given menu item in SuperMemo?
-a: select it and its description will be displayed on the status bar
+q: 如何将图片添加到SuperMemo元素?
+a: 1. 将图片复制到剪贴板, 2.用Ctrl+V或Shift+Ins在SuperMemo中粘贴图片
  
-q: What is the name of a collection of elements in SuperMemo?
-a: SuperMemo collection
+q: 我如何添加一个声音组件到SuperMemo元素?
+a: 选择 Edit（编辑） : Add components（添加组件） : Sound（声音）
  
-q: How can you make a copy of a SuperMemo collection?
-a: choose File : Copy collection (or press Ctrl+Shift+C)
- 
-q: How can you recover a SuperMemo collection in case its files were damaged?
-a: run File : Repair collection (or press Ctrl+F12)
- 
-q: How can you review your learning material in a SuperMemo collection?
-a: choose Learn (or press Ctrl+L)
- 
-q: How can you search for a given text in the entire SuperMemo collection?
-a: press Ctrl+F (shortcut for Search : Find elements)
- 
-q: How can you add a picture to a SuperMemo element?
-a: 1. copy the picture to the clipboard, 2. paste the picture with Ctrl+V or Shift+Ins in SuperMemo
-
-q: How can I add a sound component to a SuperMemo element?
-a: choose Edit : Add components : Sound
- 
-q: How can I make sure that a given look of an element is used each time I choose Add New?
-a: use Template : Save as default (after creating a new look)
- 
-q: What is incremental reading used for?
-a: Reading, and learning, from thousands of articles in parallel (www.super-memory.com/help/read.htm)
- 
-q: Which stage of the learning process does incremental reading accelerate?
-a: comprehension
- 
-q: How can I add an article to SuperMemo for incremental reading?
-a: 1. copy the article to the clipboard, 2. paste it with Ctrl+N
- 
-q: How can I swap the question with the answer?
-a: press Ctrl+Shift+S
- 
-q: How can I import an article from Wikipedia?
-a: (1) open the article in Internet Explorer, (2) use Ctrl+Shift+W
-q: How can you introduce Question of the Day into the learning process in SuperMemo?
-a: choose 'Remember'
- 
+q: 我如何确保每次选择添加新元素时都使用了给定的元素外观?
+a: 使用 Template（模板） : 保存为默认 (在创建 new look 之后)
