@@ -1,74 +1,74 @@
-q: 增量阅读用于什么?
-a: 从成千上万的文章中阅读和学习 (www.super-memory.com/help/read.htm)
+q: �����Ķ�����ʲô?
+a: �ӳ�ǧ������������Ķ���ѧϰ (www.super-memory.com/help/read.htm)
 
-q: 在SuperMemo中，你怎样才能看到某个菜单项的功能？
-a: 选择它，它的描述将显示在状态栏上。
+q: ��SuperMemo�У����������ܿ���ĳ���˵���Ĺ��ܣ�
+a: ѡ������������������ʾ��״̬���ϡ�
 
-q: 在SuperMemo中，一个元素集合的名称是什么？
+q: ��SuperMemo�У�һ��Ԫ�ؼ��ϵ�������ʲô��
 a: SuperMemo collection
  
-q: 如何制作SuperMemo集合的副本？
-a: 选择 "文件"：复制集合（或按Ctrl+Shift+C）。
+q: �������SuperMemo���ϵĸ�����
+a: ѡ�� "�ļ�"�����Ƽ��ϣ���Ctrl+Shift+C����
  
-q: 如果SuperMemo集的文件被损坏，如何恢复？
-a: 文件：修复（或按Ctrl+F12）。
+q: ���SuperMemo�����ļ����𻵣���λָ���
+a: �ļ����޸�����Ctrl+F12����
 
-q: 如何在整个SuperMemo集合中搜索一个指定的文本？
-a: 按Ctrl+F（搜索的快捷键：查找 Elements）。
+q: ���������SuperMemo����������һ��ָ�����ı���
+a: ��Ctrl+F�������Ŀ�ݼ������� Elements����
  
-q: 渐进阅读在学习过程的哪个阶段会加速?
-a: 理解
+q: �����Ķ���ѧϰ���̵��ĸ��׶λ����?
+a: ����
  
-q: 如何将一篇文章添加到SuperMemo中进行增量阅读？
-a: 1. 复制文章到剪贴板。 2. 按 Ctrl+N 粘贴。
+q: ��ν�һƪ�������ӵ�SuperMemo�н��������Ķ���
+a: 1. �������µ������塣 2. �� Ctrl+N ճ����
  
-q: 我怎样才能将问题与答案对调？
-a: 按 Ctrl+Shift+S
+q: ���������ܽ�������𰸶Ե���
+a: �� Ctrl+Shift+S
  
-q: 如何从维基百科导入文章?
-a: (1) 在Internet Explorer中打开文章, (2) 使用 Ctrl+Shift+W
+q: ��δ�ά���ٿƵ�������?
+a: (1) ��Internet Explorer�д�����, (2) ʹ�� Ctrl+Shift+W
 
-q: 如何将每日问题引入到SuperMemo的学习过程中?
-a: 选择记住(M) （choose 'Remember'）
+q: ��ν�ÿ���������뵽SuperMemo��ѧϰ������?
+a: ѡ���ס(M) ��choose 'Remember'��
  
 q: How can you always bring up the Question of the Day dialog?
-a: 选择 帮助(H) : 每日一问
+a: ѡ�� ����(H) : ÿ��һ��
  
-q: 你需要SuperMemo做什么?
-a: 学得快，记得牢（to learn fast and remember things for life）
+q: ����ҪSuperMemo��ʲô?
+a: ѧ�ÿ죬�ǵ��Σ�to learn fast and remember things for life��
  
-q: SuperMemo使用了什么主要的学习技巧来确保你永远不会忘记你的知识?
-a: 复习（通过间隔重复）
+q: SuperMemoʹ����ʲô��Ҫ��ѧϰ������ȷ������Զ�����������֪ʶ?
+a: ��ϰ��ͨ������ظ���
  
-q: SuperMemo如何知道你什么时候会忘记呢?
-a: 通过理解记忆和研究你的记忆是如何运作的
+q: SuperMemo���֪����ʲôʱ���������?
+a: ͨ�����������о���ļ��������������
  
-q: 你如何确保你记住一些事实?
-a: 把它整理到SuperMemo。
+q: �����ȷ�����סһЩ��ʵ?
+a: ����������SuperMemo��
  
-q: 存储在SuperMemo中的单个知识的名称是什么?
-a: Element (显示在元素窗口中) 
+q: �洢��SuperMemo�еĵ���֪ʶ��������ʲô?
+a: Element (��ʾ��Ԫ�ش�����) 
  
-q: 如何删除当前显示的元素(在SuperMemo中)?
-a: 使用 Del键 删除
+q: ���ɾ����ǰ��ʾ��Ԫ��(��SuperMemo��)?
+a: ʹ�� Del�� ɾ��
  
-q: 如何向SuperMemo添加新元素?
-a: 选择 Add New新增 (或按 Alt+A)
+q: �����SuperMemo������Ԫ��?
+a: ѡ�� Add New���� (�� Alt+A)
  
-q: 如何学习存储在SuperMemo中的元素?
-a: 选择 Learn学习 （或按 Ctrl+L)
+q: ���ѧϰ�洢��SuperMemo�е�Ԫ��?
+a: ѡ�� Learnѧϰ ���� Ctrl+L)
  
-q: 如何找到SuperMemo用户提出的所有问题的答案?
-a: 查看 SuperMemo Wiki: https://supermemopedia.com
+q: ����ҵ�SuperMemo�û��������������Ĵ�?
+a: �鿴 SuperMemo Wiki: https://supermemopedia.com
  
-q: 何在SuperMemo中看到一个给定按钮的功能?
-a: 将鼠标指针停止在按钮上。
+q: ����SuperMemo�п���һ��������ť�Ĺ���?
+a: �����ָ��ֹͣ�ڰ�ť�ϡ�
  
-q: 如何将图片添加到SuperMemo元素?
-a: 1. 将图片复制到剪贴板, 2.用Ctrl+V或Shift+Ins在SuperMemo中粘贴图片
+q: ��ν�ͼƬ���ӵ�SuperMemoԪ��?
+a: 1. ��ͼƬ���Ƶ�������, 2.��Ctrl+V��Shift+Ins��SuperMemo��ճ��ͼƬ
  
-q: 我如何添加一个声音组件到SuperMemo元素?
-a: 选择编辑 : 添加组件 : 声音（choose Edit : Add components : Sound）
+q: ���������һ�����������SuperMemoԪ��?
+a: ѡ��༭ : ������� : ������choose Edit : Add components : Sound��
  
-q: 我如何确保每次选择添加新元素时都使用了给定的元素外观?
-a: 使用模板（Template） : 保存为默认 (在创建 new look 之后)
+q: �����ȷ��ÿ��ѡ��������Ԫ��ʱ��ʹ���˸�����Ԫ�����?
+a: ʹ��ģ�壨Template�� : ����ΪĬ�� (�ڴ��� new look ֮��)
